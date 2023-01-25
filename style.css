@@ -20,7 +20,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     background-color: var(--Very-Light-Gray);
-    margin: 0 auto;
+    margin:100px auto;
 }
 
 
@@ -61,7 +61,7 @@ header h2{
 .cards{
     display: flex;
     flex-wrap: wrap;
-    margin: 100px auto;
+    margin: 50px auto;
     justify-content: center;
     align-items: center;
     max-width: 1200px;
